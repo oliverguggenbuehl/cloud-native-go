@@ -8,4 +8,4 @@ steps:
   - go get -v ./...
   - echo "---> Building application source..."
   - go build -v -o main
-  - go install main
+#  - go install main
