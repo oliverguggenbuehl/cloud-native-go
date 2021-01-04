@@ -81,3 +81,6 @@ M.-Leander Reimer (@lreimer)
 == License
 
 This software is provided under the MIT open source license, read the `LICENSE` file for details.
+
+
+[![Build Status](https://cloud.drone.io/api/badges/bigg01/cloud-native-go/status.svg)](https://cloud.drone.io/bigg01/cloud-native-go)
