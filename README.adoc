@@ -1,7 +1,4 @@
-image:https://app.wercker.com/status/d328097234e34e6b8b7ee19eb8e963a5/s/master["Wercker Status", link="https://app.wercker.com/project/byKey/d328097234e34e6b8b7ee19eb8e963a5"]
-image:https://img.shields.io/badge/license-MIT%20License-blue.svg["MIT License", link=https://github.com/lreimer/cloud-native-javaee/blob/master/LICENSE"]
-
-image:https://cloud.drone.io/api/badges/bigg01/cloud-native-go/status.svg
+image:https://cloud.drone.io/api/badges/bigg01/cloud-native-go/status.svg["Build Status", link=https://cloud.drone.io/bigg01/cloud-native-go"]
 
 = Cloud Native Go Showcase
 
@@ -84,5 +81,3 @@ M.-Leander Reimer (@lreimer)
 
 This software is provided under the MIT open source license, read the `LICENSE` file for details.
 
-
-[![Build Status](https://cloud.drone.io/api/badges/bigg01/cloud-native-go/status.svg)](https://cloud.drone.io/bigg01/cloud-native-go)
