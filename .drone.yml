@@ -9,3 +9,9 @@ steps:
   - echo "---> Building application source..."
   - go build -v -o main
 #  - go install main
+
+
+- name: echo
+  image: golang
+  commands:
+  - echo "---> finished ..."
